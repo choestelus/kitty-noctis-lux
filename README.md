@@ -22,6 +22,11 @@
     ```
     include ./theme.conf
     ```
+
+## Preview
+
+![kitty-noctis-lux-preview](./.github/noctis-lux-kitty.png)
+
 ## License
 
 This repository is licensed with the MIT License.
