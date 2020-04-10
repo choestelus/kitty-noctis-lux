@@ -26,4 +26,4 @@
 
 This repository is licensed with the MIT License.
 
-original noctis theme https://github.com/liviuschera/noctis
+original noctis theme by https://github.com/liviuschera/noctis
